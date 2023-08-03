@@ -6,7 +6,7 @@ app=Flask(__name__)
 db=mysql.connect(
     host="localhost",
     user="root",
-    password="A#571@akho07",
+    password="**********",
     database="project"  
 )
 cur=db.cursor()
